@@ -27,7 +27,18 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 
 ## Screenshots
 ### 547.
+<center>
+
+**Primeira versão** 
+
 ![547](./assets/accepted_547.png)
+
+
+**Versão interativa e otimizada**
+
+![547 - versão otimizada](./assets/accepted_547_otimizada.png)
+
+</center>
 
 ### Pré-requisitos
 - Ter o [Python 3](https://www.python.org/downloads/) instalado na máquina.  
