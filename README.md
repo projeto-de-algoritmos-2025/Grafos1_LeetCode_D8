@@ -21,11 +21,21 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 
 ## Exercícios
 
-|Código do Problema| Nome do Problema | Dificuldade |
-|------------------|------------------|-------------|
-| 547. | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/?envType=problem-list-v2&envId=graph) | Médio |
+|Código do Problema| Nome do Problema | Resolução | Dificuldade |
+|------------------|------------------|-----------|-------------|
+| 847. | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/?envType=problem-list-v2&envId=graph) | [Resolução 847](847_ShortestPathVisitingAllNodes.py) | Difícil |
+| 547. | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/?envType=problem-list-v2&envId=graph) | [Resolução 547](547_NumberOfProvinces.py)| Médio |
 
 ## Screenshots
+
+### 847.
+
+<center>
+
+![847](./assets/accepted_847.png)
+
+</center>
+
 ### 547.
 <center>
 
