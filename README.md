@@ -8,21 +8,26 @@ Repositório da Dupla 08 do semeste 2025.2.
 
 | Matrícula | Aluno |
 |-----------|-------|
-| 251035022 | Camile Barbosa Gonzaga De Oliveira |
-| 221008294 | Luiza Maluf Amorim |
+| 25/1035022 | Camile Barbosa Gonzaga De Oliveira |
+| 22/1008294 | Luiza Maluf Amorim |
 
 ## Objetivo
 
 Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvidos em sala de aula sobre o assunto Grafos 1.
 
-## Screenshots
-(prints do projeto rodando)
-
 ## Instalação
 
+- **Linguagem**: Python
 
-- **Linguagem**: Python 3.x  
-- **Framework**: Não se aplica (uso apenas Python puro)
+## Exercícios
+
+|Código do Problema| Nome do Problema | Dificuldade |
+|------------------|------------------|-------------|
+| 547. | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/?envType=problem-list-v2&envId=graph) | Médio |
+
+## Screenshots
+### 547.
+![547](./assets/accepted_547.png)
 
 ### Pré-requisitos
 - Ter o [Python 3](https://www.python.org/downloads/) instalado na máquina.  
