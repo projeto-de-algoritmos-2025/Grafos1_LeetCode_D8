@@ -17,22 +17,25 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 
 ## Instalação
 
-- **Linguagem**: Python
+- **Linguagem**: Python e C.
 
 ## Exercícios
 
 |Código do Problema| Nome do Problema | Resolução | Dificuldade |
 |------------------|------------------|-----------|-------------|
-| 847. | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/?envType=problem-list-v2&envId=graph) | [Resolução 847](847_ShortestPathVisitingAllNodes.py) | Difícil |
+| 329. | [Longest increasing path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)| [Resolução 329](329_longest_increasing_path.c) | Difícil |
 | 547. | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/?envType=problem-list-v2&envId=graph) | [Resolução 547](547_NumberOfProvinces.py)| Médio |
+| 785. | [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite)| [Resolução 785](785_IsGraphBipartite.c) | Médio |
+| 847. | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)| [Resolução 847](847_ShortestPathVisitingAllNodes.py) | Difícil |
+
 
 ## Screenshots
 
-### 847.
+### 329.
 
 <center>
 
-![847](./assets/accepted_847.png)
+![329](./assets/accepted_329.png)
 
 </center>
 
@@ -50,16 +53,53 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 
 </center>
 
-### Pré-requisitos
+### 785.
+
+<center>
+
+![785](./assets/accepted_785.png)
+
+</center>
+
+### 847.
+
+<center>
+
+![847](./assets/accepted_847.png)
+
+</center>
+
+
+## Pré-requisitos
+
+### Python
 - Ter o [Python 3](https://www.python.org/downloads/) instalado na máquina.  
 - (Opcional) Criar e ativar um ambiente virtual:
   ```bash
   python3 -m venv venv
   source venv/bin/activate   # Linux/Mac
   venv\Scripts\activate      # Windows
-### Como rodar
+  ```
+
+### C
+- Ter um compilador C instalado . O GCC (GNU Compiler Collection) é o mais utilizado e ele já vem pré-instalado em muitos sistemas operacionais (como Linux e macOS).
+- Se você estiver no Windows e precisar instalar o GCC, pode considerar o uso do MinGW ou do Cygwin.
+
+- (Opcional) Acessar um compiladores C online para escrever, compilar e executar o código diretamente no navegador.
+
+## Como rodar
+
+### Python 
 
 Para executar uma solução específica:
 
  ```bash
  python nome_do_arquivo.py
+ ```
+
+### C
+
+ ```bash
+gcc nome_do_arquivo.c
+./a.out 
+ ```
