@@ -85,7 +85,7 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 - Ter um compilador C instalado . O GCC (GNU Compiler Collection) é o mais utilizado e ele já vem pré-instalado em muitos sistemas operacionais (como Linux e macOS).
 - Se você estiver no Windows e precisar instalar o GCC, pode considerar o uso do MinGW ou do Cygwin.
 
-- (Opcional) Acessar um compiladores C online para escrever, compilar e executar o código diretamente no navegador.
+- (Opcional) Acessar um compilador C online para escrever, compilar e executar o código diretamente no navegador.
 
 ## Como rodar
 
