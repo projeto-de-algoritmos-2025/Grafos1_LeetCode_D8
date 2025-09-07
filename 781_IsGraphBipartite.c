@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <stdbool.h>
 // bool é o tipo de retorno, já que o grafo pode ou não ser bipartido.
 //__int** graph__ é o grafo que está sendo representado como lista de adjacência, como pede a questão.
 //__int graphSize__ representa o número de nós no grafo.
