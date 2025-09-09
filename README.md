@@ -30,7 +30,7 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 
 ## Apresentação
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/elH0050AoHQ?si=SEYeG5ltICkYR7KZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Link para a apresentação](https://www.youtube.com/watch?v=elH0050AoHQ)
 
 ## Screenshots
 
