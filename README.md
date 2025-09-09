@@ -28,6 +28,9 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 | 785. | [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite)| [Resolução 785](785_IsGraphBipartite.c) | Médio |
 | 847. | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)| [Resolução 847](847_ShortestPathVisitingAllNodes.py) | Difícil |
 
+## Apresentação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/elH0050AoHQ?si=SEYeG5ltICkYR7KZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Screenshots
 
